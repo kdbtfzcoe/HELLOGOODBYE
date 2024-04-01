@@ -1,0 +1,28 @@
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\bin\Debug\net6.0\HelloGoodbye.exe
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\bin\Debug\net6.0\HelloGoodbye.deps.json
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\bin\Debug\net6.0\HelloGoodbye.runtimeconfig.json
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\bin\Debug\net6.0\HelloGoodbye.dll
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\bin\Debug\net6.0\HelloGoodbye.pdb
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\obj\Debug\net6.0\HelloGoodbye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\obj\Debug\net6.0\HelloGoodbye.AssemblyInfoInputs.cache
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\obj\Debug\net6.0\HelloGoodbye.AssemblyInfo.cs
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\obj\Debug\net6.0\HelloGoodbye.csproj.CoreCompileInputs.cache
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\obj\Debug\net6.0\HelloGoodbye.dll
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\obj\Debug\net6.0\refint\HelloGoodbye.dll
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\obj\Debug\net6.0\HelloGoodbye.pdb
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\obj\Debug\net6.0\HelloGoodbye.genruntimeconfig.cache
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\obj\Debug\net6.0\ref\HelloGoodbye.dll
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\bin\Debug\net6.0\HelloGoodbye.exe
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\bin\Debug\net6.0\HelloGoodbye.deps.json
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\bin\Debug\net6.0\HelloGoodbye.runtimeconfig.json
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\bin\Debug\net6.0\HelloGoodbye.dll
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\bin\Debug\net6.0\HelloGoodbye.pdb
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\obj\Debug\net6.0\HelloGoodbye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\obj\Debug\net6.0\HelloGoodbye.AssemblyInfoInputs.cache
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\obj\Debug\net6.0\HelloGoodbye.AssemblyInfo.cs
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\obj\Debug\net6.0\HelloGoodbye.csproj.CoreCompileInputs.cache
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\obj\Debug\net6.0\HelloGoodbye.dll
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\obj\Debug\net6.0\refint\HelloGoodbye.dll
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\obj\Debug\net6.0\HelloGoodbye.pdb
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\obj\Debug\net6.0\HelloGoodbye.genruntimeconfig.cache
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\HelloGoodbye\HelloGoodbye\obj\Debug\net6.0\ref\HelloGoodbye.dll
